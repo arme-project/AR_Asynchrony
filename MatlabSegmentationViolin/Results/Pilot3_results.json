@@ -1,0 +1,963 @@
+{
+    "ParticipantID": "Pilot3",
+    "_timeCreated": "14:23:25",
+    "_dateCreated": "2022-12-02",
+    "NumberOfBatches": 4,
+    "SessionBlueprint": {
+        "NumberOfBatches": 4,
+        "FirstDisplayTarget": 0,
+        "FirstVideoType": 1,
+        "BatchBlueprints": [
+            {
+                "NumberOfTrialsInBatch": 23,
+                "WhichDisplayTarget": 0,
+                "WhichVideoType": 1
+            },
+            {
+                "NumberOfTrialsInBatch": 23,
+                "WhichDisplayTarget": 0,
+                "WhichVideoType": 0
+            },
+            {
+                "NumberOfTrialsInBatch": 22,
+                "WhichDisplayTarget": 0,
+                "WhichVideoType": 1
+            },
+            {
+                "NumberOfTrialsInBatch": 22,
+                "WhichDisplayTarget": 0,
+                "WhichVideoType": 0
+            }
+        ]
+    },
+    "Batches": [
+        {
+            "Trials": [
+                {
+                    "DisplayTarget": "VR",
+                    "Video": "violin_video12",
+                    "Response": {
+                        "MouseResponse": 0,
+                        "ResponseTime": 2.695035457611084
+                    },
+                    "TrialNumber": 1,
+                    "ParentBatchNumber": 1
+                },
+                {
+                    "DisplayTarget": "VR",
+                    "Video": "violin_video9",
+                    "Response": {
+                        "MouseResponse": 0,
+                        "ResponseTime": 2.2316408157348635
+                    },
+                    "TrialNumber": 2,
+                    "ParentBatchNumber": 1
+                },
+                {
+                    "DisplayTarget": "VR",
+                    "Video": "violin_video11",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 3.54563045501709
+                    },
+                    "TrialNumber": 3,
+                    "ParentBatchNumber": 1
+                },
+                {
+                    "DisplayTarget": "VR",
+                    "Video": "violin_video5",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 1.6319446563720704
+                    },
+                    "TrialNumber": 4,
+                    "ParentBatchNumber": 1
+                },
+                {
+                    "DisplayTarget": "VR",
+                    "Video": "violin_video10",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 3.2521324157714845
+                    },
+                    "TrialNumber": 5,
+                    "ParentBatchNumber": 1
+                },
+                {
+                    "DisplayTarget": "VR",
+                    "Video": "violin_video5",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 1.6970043182373047
+                    },
+                    "TrialNumber": 6,
+                    "ParentBatchNumber": 1
+                },
+                {
+                    "DisplayTarget": "VR",
+                    "Video": "violin_video12",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 2.0894012451171877
+                    },
+                    "TrialNumber": 7,
+                    "ParentBatchNumber": 1
+                },
+                {
+                    "DisplayTarget": "VR",
+                    "Video": "violin_video8",
+                    "Response": {
+                        "MouseResponse": 0,
+                        "ResponseTime": 1.9412307739257813
+                    },
+                    "TrialNumber": 8,
+                    "ParentBatchNumber": 1
+                },
+                {
+                    "DisplayTarget": "VR",
+                    "Video": "violin_video6",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 2.0761070251464845
+                    },
+                    "TrialNumber": 9,
+                    "ParentBatchNumber": 1
+                },
+                {
+                    "DisplayTarget": "VR",
+                    "Video": "violin_video13",
+                    "Response": {
+                        "MouseResponse": 0,
+                        "ResponseTime": 2.756866455078125
+                    },
+                    "TrialNumber": 10,
+                    "ParentBatchNumber": 1
+                },
+                {
+                    "DisplayTarget": "VR",
+                    "Video": "violin_video12",
+                    "Response": {
+                        "MouseResponse": 0,
+                        "ResponseTime": 3.1399269104003908
+                    },
+                    "TrialNumber": 11,
+                    "ParentBatchNumber": 1
+                },
+                {
+                    "DisplayTarget": "VR",
+                    "Video": "violin_video5",
+                    "Response": {
+                        "MouseResponse": 0,
+                        "ResponseTime": 2.8282699584960939
+                    },
+                    "TrialNumber": 12,
+                    "ParentBatchNumber": 1
+                },
+                {
+                    "DisplayTarget": "VR",
+                    "Video": "violin_video9",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 2.8254661560058595
+                    },
+                    "TrialNumber": 13,
+                    "ParentBatchNumber": 1
+                },
+                {
+                    "DisplayTarget": "VR",
+                    "Video": "violin_video9",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 3.4242820739746095
+                    },
+                    "TrialNumber": 14,
+                    "ParentBatchNumber": 1
+                },
+                {
+                    "DisplayTarget": "VR",
+                    "Video": "violin_video12",
+                    "Response": {
+                        "MouseResponse": 0,
+                        "ResponseTime": 3.4169158935546877
+                    },
+                    "TrialNumber": 15,
+                    "ParentBatchNumber": 1
+                },
+                {
+                    "DisplayTarget": "VR",
+                    "Video": "violin_video11",
+                    "Response": {
+                        "MouseResponse": 0,
+                        "ResponseTime": 3.179889678955078
+                    },
+                    "TrialNumber": 16,
+                    "ParentBatchNumber": 1
+                },
+                {
+                    "DisplayTarget": "VR",
+                    "Video": "violin_video8",
+                    "Response": {
+                        "MouseResponse": 0,
+                        "ResponseTime": 2.5895767211914064
+                    },
+                    "TrialNumber": 17,
+                    "ParentBatchNumber": 1
+                },
+                {
+                    "DisplayTarget": "VR",
+                    "Video": "violin_video10",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 1.7006149291992188
+                    },
+                    "TrialNumber": 18,
+                    "ParentBatchNumber": 1
+                },
+                {
+                    "DisplayTarget": "VR",
+                    "Video": "violin_video5",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 1.905426025390625
+                    },
+                    "TrialNumber": 19,
+                    "ParentBatchNumber": 1
+                },
+                {
+                    "DisplayTarget": "VR",
+                    "Video": "violin_video6",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 1.9391326904296876
+                    },
+                    "TrialNumber": 20,
+                    "ParentBatchNumber": 1
+                },
+                {
+                    "DisplayTarget": "VR",
+                    "Video": "violin_video7",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 1.68426513671875
+                    },
+                    "TrialNumber": 21,
+                    "ParentBatchNumber": 1
+                },
+                {
+                    "DisplayTarget": "VR",
+                    "Video": "violin_video8",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 3.0808181762695314
+                    },
+                    "TrialNumber": 22,
+                    "ParentBatchNumber": 1
+                },
+                {
+                    "DisplayTarget": "VR",
+                    "Video": "violin_video10",
+                    "Response": {
+                        "MouseResponse": 0,
+                        "ResponseTime": 1.7838821411132813
+                    },
+                    "TrialNumber": 23,
+                    "ParentBatchNumber": 1
+                }
+            ],
+            "TargetDisplay": 0,
+            "VideoType": 1,
+            "IntendedBatchSize": 23
+        },
+        {
+            "Trials": [
+                {
+                    "DisplayTarget": "VR",
+                    "Video": "beep_video5",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 2.1641845703125
+                    },
+                    "TrialNumber": 1,
+                    "ParentBatchNumber": 2
+                },
+                {
+                    "DisplayTarget": "VR",
+                    "Video": "beep_video6",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 2.3694305419921877
+                    },
+                    "TrialNumber": 2,
+                    "ParentBatchNumber": 2
+                },
+                {
+                    "DisplayTarget": "VR",
+                    "Video": "beep_video12",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 3.6798324584960939
+                    },
+                    "TrialNumber": 3,
+                    "ParentBatchNumber": 2
+                },
+                {
+                    "DisplayTarget": "VR",
+                    "Video": "beep_video7",
+                    "Response": {
+                        "MouseResponse": 0,
+                        "ResponseTime": 2.5507888793945314
+                    },
+                    "TrialNumber": 4,
+                    "ParentBatchNumber": 2
+                },
+                {
+                    "DisplayTarget": "VR",
+                    "Video": "beep_video6",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 2.26031494140625
+                    },
+                    "TrialNumber": 5,
+                    "ParentBatchNumber": 2
+                },
+                {
+                    "DisplayTarget": "VR",
+                    "Video": "beep_video12",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 3.00274658203125
+                    },
+                    "TrialNumber": 6,
+                    "ParentBatchNumber": 2
+                },
+                {
+                    "DisplayTarget": "VR",
+                    "Video": "beep_video12",
+                    "Response": {
+                        "MouseResponse": 0,
+                        "ResponseTime": 2.4980850219726564
+                    },
+                    "TrialNumber": 7,
+                    "ParentBatchNumber": 2
+                },
+                {
+                    "DisplayTarget": "VR",
+                    "Video": "beep_video6",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 2.8686752319335939
+                    },
+                    "TrialNumber": 8,
+                    "ParentBatchNumber": 2
+                },
+                {
+                    "DisplayTarget": "VR",
+                    "Video": "beep_video8",
+                    "Response": {
+                        "MouseResponse": 0,
+                        "ResponseTime": 1.8173065185546876
+                    },
+                    "TrialNumber": 9,
+                    "ParentBatchNumber": 2
+                },
+                {
+                    "DisplayTarget": "VR",
+                    "Video": "beep_video9",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 2.43450927734375
+                    },
+                    "TrialNumber": 10,
+                    "ParentBatchNumber": 2
+                },
+                {
+                    "DisplayTarget": "VR",
+                    "Video": "beep_video5",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 1.96612548828125
+                    },
+                    "TrialNumber": 11,
+                    "ParentBatchNumber": 2
+                },
+                {
+                    "DisplayTarget": "VR",
+                    "Video": "beep_video11",
+                    "Response": {
+                        "MouseResponse": 0,
+                        "ResponseTime": 2.662506103515625
+                    },
+                    "TrialNumber": 12,
+                    "ParentBatchNumber": 2
+                },
+                {
+                    "DisplayTarget": "VR",
+                    "Video": "beep_video5",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 1.8163909912109376
+                    },
+                    "TrialNumber": 13,
+                    "ParentBatchNumber": 2
+                },
+                {
+                    "DisplayTarget": "VR",
+                    "Video": "beep_video5",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 1.7162322998046876
+                    },
+                    "TrialNumber": 14,
+                    "ParentBatchNumber": 2
+                },
+                {
+                    "DisplayTarget": "VR",
+                    "Video": "beep_video9",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 2.4235382080078127
+                    },
+                    "TrialNumber": 15,
+                    "ParentBatchNumber": 2
+                },
+                {
+                    "DisplayTarget": "VR",
+                    "Video": "beep_video7",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 1.61639404296875
+                    },
+                    "TrialNumber": 16,
+                    "ParentBatchNumber": 2
+                },
+                {
+                    "DisplayTarget": "VR",
+                    "Video": "beep_video13",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 2.029449462890625
+                    },
+                    "TrialNumber": 17,
+                    "ParentBatchNumber": 2
+                },
+                {
+                    "DisplayTarget": "VR",
+                    "Video": "beep_video13",
+                    "Response": {
+                        "MouseResponse": 0,
+                        "ResponseTime": 1.7668304443359376
+                    },
+                    "TrialNumber": 18,
+                    "ParentBatchNumber": 2
+                },
+                {
+                    "DisplayTarget": "VR",
+                    "Video": "beep_video7",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 2.8204803466796877
+                    },
+                    "TrialNumber": 19,
+                    "ParentBatchNumber": 2
+                },
+                {
+                    "DisplayTarget": "VR",
+                    "Video": "beep_video11",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 2.5458984375
+                    },
+                    "TrialNumber": 20,
+                    "ParentBatchNumber": 2
+                },
+                {
+                    "DisplayTarget": "VR",
+                    "Video": "beep_video8",
+                    "Response": {
+                        "MouseResponse": 0,
+                        "ResponseTime": 1.831268310546875
+                    },
+                    "TrialNumber": 21,
+                    "ParentBatchNumber": 2
+                },
+                {
+                    "DisplayTarget": "VR",
+                    "Video": "beep_video12",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 3.5438690185546877
+                    },
+                    "TrialNumber": 22,
+                    "ParentBatchNumber": 2
+                },
+                {
+                    "DisplayTarget": "VR",
+                    "Video": "beep_video8",
+                    "Response": {
+                        "MouseResponse": 0,
+                        "ResponseTime": 3.6161041259765627
+                    },
+                    "TrialNumber": 23,
+                    "ParentBatchNumber": 2
+                }
+            ],
+            "TargetDisplay": 0,
+            "VideoType": 0,
+            "IntendedBatchSize": 23
+        },
+        {
+            "Trials": [
+                {
+                    "DisplayTarget": "VR",
+                    "Video": "violin_video11",
+                    "Response": {
+                        "MouseResponse": 0,
+                        "ResponseTime": 2.8815155029296877
+                    },
+                    "TrialNumber": 1,
+                    "ParentBatchNumber": 3
+                },
+                {
+                    "DisplayTarget": "VR",
+                    "Video": "violin_video12",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 2.6052398681640627
+                    },
+                    "TrialNumber": 2,
+                    "ParentBatchNumber": 3
+                },
+                {
+                    "DisplayTarget": "VR",
+                    "Video": "violin_video9",
+                    "Response": {
+                        "MouseResponse": 0,
+                        "ResponseTime": 2.3925323486328127
+                    },
+                    "TrialNumber": 3,
+                    "ParentBatchNumber": 3
+                },
+                {
+                    "DisplayTarget": "VR",
+                    "Video": "violin_video13",
+                    "Response": {
+                        "MouseResponse": 0,
+                        "ResponseTime": 3.0203399658203127
+                    },
+                    "TrialNumber": 4,
+                    "ParentBatchNumber": 3
+                },
+                {
+                    "DisplayTarget": "VR",
+                    "Video": "violin_video6",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 1.7297515869140626
+                    },
+                    "TrialNumber": 5,
+                    "ParentBatchNumber": 3
+                },
+                {
+                    "DisplayTarget": "VR",
+                    "Video": "violin_video10",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 3.699432373046875
+                    },
+                    "TrialNumber": 6,
+                    "ParentBatchNumber": 3
+                },
+                {
+                    "DisplayTarget": "VR",
+                    "Video": "violin_video13",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 2.7224884033203127
+                    },
+                    "TrialNumber": 7,
+                    "ParentBatchNumber": 3
+                },
+                {
+                    "DisplayTarget": "VR",
+                    "Video": "violin_video9",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 3.5680999755859377
+                    },
+                    "TrialNumber": 8,
+                    "ParentBatchNumber": 3
+                },
+                {
+                    "DisplayTarget": "VR",
+                    "Video": "violin_video11",
+                    "Response": {
+                        "MouseResponse": 0,
+                        "ResponseTime": 2.0215606689453127
+                    },
+                    "TrialNumber": 9,
+                    "ParentBatchNumber": 3
+                },
+                {
+                    "DisplayTarget": "VR",
+                    "Video": "violin_video5",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 11.845489501953125
+                    },
+                    "TrialNumber": 10,
+                    "ParentBatchNumber": 3
+                },
+                {
+                    "DisplayTarget": "VR",
+                    "Video": "violin_video7",
+                    "Response": {
+                        "MouseResponse": 0,
+                        "ResponseTime": 2.732452392578125
+                    },
+                    "TrialNumber": 11,
+                    "ParentBatchNumber": 3
+                },
+                {
+                    "DisplayTarget": "VR",
+                    "Video": "violin_video7",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 3.3691558837890627
+                    },
+                    "TrialNumber": 12,
+                    "ParentBatchNumber": 3
+                },
+                {
+                    "DisplayTarget": "VR",
+                    "Video": "violin_video13",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 1.89971923828125
+                    },
+                    "TrialNumber": 13,
+                    "ParentBatchNumber": 3
+                },
+                {
+                    "DisplayTarget": "VR",
+                    "Video": "violin_video7",
+                    "Response": {
+                        "MouseResponse": 0,
+                        "ResponseTime": 2.0960693359375
+                    },
+                    "TrialNumber": 14,
+                    "ParentBatchNumber": 3
+                },
+                {
+                    "DisplayTarget": "VR",
+                    "Video": "violin_video8",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 3.058563232421875
+                    },
+                    "TrialNumber": 15,
+                    "ParentBatchNumber": 3
+                },
+                {
+                    "DisplayTarget": "VR",
+                    "Video": "violin_video6",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 3.0900726318359377
+                    },
+                    "TrialNumber": 16,
+                    "ParentBatchNumber": 3
+                },
+                {
+                    "DisplayTarget": "VR",
+                    "Video": "violin_video11",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 4.025421142578125
+                    },
+                    "TrialNumber": 17,
+                    "ParentBatchNumber": 3
+                },
+                {
+                    "DisplayTarget": "VR",
+                    "Video": "violin_video6",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 2.2315673828125
+                    },
+                    "TrialNumber": 18,
+                    "ParentBatchNumber": 3
+                },
+                {
+                    "DisplayTarget": "VR",
+                    "Video": "violin_video7",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 2.13922119140625
+                    },
+                    "TrialNumber": 19,
+                    "ParentBatchNumber": 3
+                },
+                {
+                    "DisplayTarget": "VR",
+                    "Video": "violin_video13",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 1.96246337890625
+                    },
+                    "TrialNumber": 20,
+                    "ParentBatchNumber": 3
+                },
+                {
+                    "DisplayTarget": "VR",
+                    "Video": "violin_video10",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 2.358367919921875
+                    },
+                    "TrialNumber": 21,
+                    "ParentBatchNumber": 3
+                },
+                {
+                    "DisplayTarget": "VR",
+                    "Video": "violin_video8",
+                    "Response": {
+                        "MouseResponse": 0,
+                        "ResponseTime": 1.876495361328125
+                    },
+                    "TrialNumber": 22,
+                    "ParentBatchNumber": 3
+                }
+            ],
+            "TargetDisplay": 0,
+            "VideoType": 1,
+            "IntendedBatchSize": 22
+        },
+        {
+            "Trials": [
+                {
+                    "DisplayTarget": "VR",
+                    "Video": "beep_video8",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 2.66998291015625
+                    },
+                    "TrialNumber": 1,
+                    "ParentBatchNumber": 4
+                },
+                {
+                    "DisplayTarget": "VR",
+                    "Video": "beep_video13",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 3.093963623046875
+                    },
+                    "TrialNumber": 2,
+                    "ParentBatchNumber": 4
+                },
+                {
+                    "DisplayTarget": "VR",
+                    "Video": "beep_video9",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 4.43798828125
+                    },
+                    "TrialNumber": 3,
+                    "ParentBatchNumber": 4
+                },
+                {
+                    "DisplayTarget": "VR",
+                    "Video": "beep_video6",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 3.500457763671875
+                    },
+                    "TrialNumber": 4,
+                    "ParentBatchNumber": 4
+                },
+                {
+                    "DisplayTarget": "VR",
+                    "Video": "beep_video7",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 2.12060546875
+                    },
+                    "TrialNumber": 5,
+                    "ParentBatchNumber": 4
+                },
+                {
+                    "DisplayTarget": "VR",
+                    "Video": "beep_video11",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 4.4703369140625
+                    },
+                    "TrialNumber": 6,
+                    "ParentBatchNumber": 4
+                },
+                {
+                    "DisplayTarget": "VR",
+                    "Video": "beep_video9",
+                    "Response": {
+                        "MouseResponse": 0,
+                        "ResponseTime": 2.36834716796875
+                    },
+                    "TrialNumber": 7,
+                    "ParentBatchNumber": 4
+                },
+                {
+                    "DisplayTarget": "VR",
+                    "Video": "beep_video6",
+                    "Response": {
+                        "MouseResponse": 0,
+                        "ResponseTime": 2.133209228515625
+                    },
+                    "TrialNumber": 8,
+                    "ParentBatchNumber": 4
+                },
+                {
+                    "DisplayTarget": "VR",
+                    "Video": "beep_video10",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 1.808685302734375
+                    },
+                    "TrialNumber": 9,
+                    "ParentBatchNumber": 4
+                },
+                {
+                    "DisplayTarget": "VR",
+                    "Video": "beep_video12",
+                    "Response": {
+                        "MouseResponse": 0,
+                        "ResponseTime": 1.816741943359375
+                    },
+                    "TrialNumber": 10,
+                    "ParentBatchNumber": 4
+                },
+                {
+                    "DisplayTarget": "VR",
+                    "Video": "beep_video5",
+                    "Response": {
+                        "MouseResponse": 0,
+                        "ResponseTime": 6.943756103515625
+                    },
+                    "TrialNumber": 11,
+                    "ParentBatchNumber": 4
+                },
+                {
+                    "DisplayTarget": "VR",
+                    "Video": "beep_video10",
+                    "Response": {
+                        "MouseResponse": 0,
+                        "ResponseTime": 2.104583740234375
+                    },
+                    "TrialNumber": 12,
+                    "ParentBatchNumber": 4
+                },
+                {
+                    "DisplayTarget": "VR",
+                    "Video": "beep_video13",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 4.194976806640625
+                    },
+                    "TrialNumber": 13,
+                    "ParentBatchNumber": 4
+                },
+                {
+                    "DisplayTarget": "VR",
+                    "Video": "beep_video11",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 2.54681396484375
+                    },
+                    "TrialNumber": 14,
+                    "ParentBatchNumber": 4
+                },
+                {
+                    "DisplayTarget": "VR",
+                    "Video": "beep_video9",
+                    "Response": {
+                        "MouseResponse": 0,
+                        "ResponseTime": 1.91937255859375
+                    },
+                    "TrialNumber": 15,
+                    "ParentBatchNumber": 4
+                },
+                {
+                    "DisplayTarget": "VR",
+                    "Video": "beep_video10",
+                    "Response": {
+                        "MouseResponse": 0,
+                        "ResponseTime": 2.077484130859375
+                    },
+                    "TrialNumber": 16,
+                    "ParentBatchNumber": 4
+                },
+                {
+                    "DisplayTarget": "VR",
+                    "Video": "beep_video13",
+                    "Response": {
+                        "MouseResponse": 0,
+                        "ResponseTime": 1.766021728515625
+                    },
+                    "TrialNumber": 17,
+                    "ParentBatchNumber": 4
+                },
+                {
+                    "DisplayTarget": "VR",
+                    "Video": "beep_video10",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 2.572296142578125
+                    },
+                    "TrialNumber": 18,
+                    "ParentBatchNumber": 4
+                },
+                {
+                    "DisplayTarget": "VR",
+                    "Video": "beep_video8",
+                    "Response": {
+                        "MouseResponse": 0,
+                        "ResponseTime": 1.995452880859375
+                    },
+                    "TrialNumber": 19,
+                    "ParentBatchNumber": 4
+                },
+                {
+                    "DisplayTarget": "VR",
+                    "Video": "beep_video7",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 2.457183837890625
+                    },
+                    "TrialNumber": 20,
+                    "ParentBatchNumber": 4
+                },
+                {
+                    "DisplayTarget": "VR",
+                    "Video": "beep_video10",
+                    "Response": {
+                        "MouseResponse": 0,
+                        "ResponseTime": 2.93536376953125
+                    },
+                    "TrialNumber": 21,
+                    "ParentBatchNumber": 4
+                },
+                {
+                    "DisplayTarget": "VR",
+                    "Video": "beep_video11",
+                    "Response": {
+                        "MouseResponse": 0,
+                        "ResponseTime": 2.2103271484375
+                    },
+                    "TrialNumber": 22,
+                    "ParentBatchNumber": 4
+                }
+            ],
+            "TargetDisplay": 0,
+            "VideoType": 0,
+            "IntendedBatchSize": 22
+        }
+    ]
+}

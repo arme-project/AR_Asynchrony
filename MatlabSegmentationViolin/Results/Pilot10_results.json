@@ -1,0 +1,1163 @@
+{
+    "ParticipantID": "Pilot10",
+    "_timeCreated": "18:23:15",
+    "_dateCreated": "2022-12-02",
+    "NumberOfBatches": 4,
+    "SessionBlueprint": {
+        "NumberOfBatches": 4,
+        "FirstDisplayTarget": 1,
+        "FirstVideoType": 0,
+        "BatchBlueprints": [
+            {
+                "NumberOfTrialsInBatch": 28,
+                "WhichDisplayTarget": 1,
+                "WhichVideoType": 0
+            },
+            {
+                "NumberOfTrialsInBatch": 28,
+                "WhichDisplayTarget": 1,
+                "WhichVideoType": 1
+            },
+            {
+                "NumberOfTrialsInBatch": 27,
+                "WhichDisplayTarget": 1,
+                "WhichVideoType": 0
+            },
+            {
+                "NumberOfTrialsInBatch": 27,
+                "WhichDisplayTarget": 1,
+                "WhichVideoType": 1
+            }
+        ]
+    },
+    "Batches": [
+        {
+            "Trials": [
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "beep_video4",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 2.8043212890625
+                    },
+                    "TrialNumber": 1,
+                    "ParentBatchNumber": 1
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "beep_video4",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 1.7465896606445313
+                    },
+                    "TrialNumber": 2,
+                    "ParentBatchNumber": 1
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "beep_video7",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 9.281524658203125
+                    },
+                    "TrialNumber": 3,
+                    "ParentBatchNumber": 1
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "beep_video11",
+                    "Response": {
+                        "MouseResponse": 0,
+                        "ResponseTime": 2.450389862060547
+                    },
+                    "TrialNumber": 4,
+                    "ParentBatchNumber": 1
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "beep_video14",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 1.8369102478027344
+                    },
+                    "TrialNumber": 5,
+                    "ParentBatchNumber": 1
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "beep_video12",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 2.6291885375976564
+                    },
+                    "TrialNumber": 6,
+                    "ParentBatchNumber": 1
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "beep_video13",
+                    "Response": {
+                        "MouseResponse": 0,
+                        "ResponseTime": 1.9444427490234376
+                    },
+                    "TrialNumber": 7,
+                    "ParentBatchNumber": 1
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "beep_video7",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 1.8804473876953126
+                    },
+                    "TrialNumber": 8,
+                    "ParentBatchNumber": 1
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "beep_video6",
+                    "Response": {
+                        "MouseResponse": 0,
+                        "ResponseTime": 3.0479278564453127
+                    },
+                    "TrialNumber": 9,
+                    "ParentBatchNumber": 1
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "beep_video9",
+                    "Response": {
+                        "MouseResponse": 0,
+                        "ResponseTime": 10.61083984375
+                    },
+                    "TrialNumber": 10,
+                    "ParentBatchNumber": 1
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "beep_video8",
+                    "Response": {
+                        "MouseResponse": 0,
+                        "ResponseTime": 2.5072097778320314
+                    },
+                    "TrialNumber": 11,
+                    "ParentBatchNumber": 1
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "beep_video9",
+                    "Response": {
+                        "MouseResponse": 0,
+                        "ResponseTime": 2.142303466796875
+                    },
+                    "TrialNumber": 12,
+                    "ParentBatchNumber": 1
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "beep_video7",
+                    "Response": {
+                        "MouseResponse": 0,
+                        "ResponseTime": 3.0529708862304689
+                    },
+                    "TrialNumber": 13,
+                    "ParentBatchNumber": 1
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "beep_video5",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 1.6088714599609376
+                    },
+                    "TrialNumber": 14,
+                    "ParentBatchNumber": 1
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "beep_video8",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 2.3863754272460939
+                    },
+                    "TrialNumber": 15,
+                    "ParentBatchNumber": 1
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "beep_video14",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 1.8919906616210938
+                    },
+                    "TrialNumber": 16,
+                    "ParentBatchNumber": 1
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "beep_video9",
+                    "Response": {
+                        "MouseResponse": 0,
+                        "ResponseTime": 1.9903717041015626
+                    },
+                    "TrialNumber": 17,
+                    "ParentBatchNumber": 1
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "beep_video10",
+                    "Response": {
+                        "MouseResponse": 0,
+                        "ResponseTime": 2.4617843627929689
+                    },
+                    "TrialNumber": 18,
+                    "ParentBatchNumber": 1
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "beep_video5",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 1.5551528930664063
+                    },
+                    "TrialNumber": 19,
+                    "ParentBatchNumber": 1
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "beep_video13",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 1.85308837890625
+                    },
+                    "TrialNumber": 20,
+                    "ParentBatchNumber": 1
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "beep_video4",
+                    "Response": {
+                        "MouseResponse": 0,
+                        "ResponseTime": 4.5161895751953129
+                    },
+                    "TrialNumber": 21,
+                    "ParentBatchNumber": 1
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "beep_video4",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 1.58856201171875
+                    },
+                    "TrialNumber": 22,
+                    "ParentBatchNumber": 1
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "beep_video9",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 3.26898193359375
+                    },
+                    "TrialNumber": 23,
+                    "ParentBatchNumber": 1
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "beep_video8",
+                    "Response": {
+                        "MouseResponse": 0,
+                        "ResponseTime": 1.8643951416015626
+                    },
+                    "TrialNumber": 24,
+                    "ParentBatchNumber": 1
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "beep_video14",
+                    "Response": {
+                        "MouseResponse": 0,
+                        "ResponseTime": 5.371429443359375
+                    },
+                    "TrialNumber": 25,
+                    "ParentBatchNumber": 1
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "beep_video10",
+                    "Response": {
+                        "MouseResponse": 0,
+                        "ResponseTime": 1.9483489990234376
+                    },
+                    "TrialNumber": 26,
+                    "ParentBatchNumber": 1
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "beep_video6",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 2.2546539306640627
+                    },
+                    "TrialNumber": 27,
+                    "ParentBatchNumber": 1
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "beep_video8",
+                    "Response": {
+                        "MouseResponse": 0,
+                        "ResponseTime": 2.0284881591796877
+                    },
+                    "TrialNumber": 28,
+                    "ParentBatchNumber": 1
+                }
+            ],
+            "TargetDisplay": 1,
+            "VideoType": 0,
+            "IntendedBatchSize": 28
+        },
+        {
+            "Trials": [
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "violin_video7",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 2.21142578125
+                    },
+                    "TrialNumber": 1,
+                    "ParentBatchNumber": 2
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "violin_video9",
+                    "Response": {
+                        "MouseResponse": 0,
+                        "ResponseTime": 2.03717041015625
+                    },
+                    "TrialNumber": 2,
+                    "ParentBatchNumber": 2
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "violin_video7",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 1.9990692138671876
+                    },
+                    "TrialNumber": 3,
+                    "ParentBatchNumber": 2
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "violin_video14",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 1.9989166259765626
+                    },
+                    "TrialNumber": 4,
+                    "ParentBatchNumber": 2
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "violin_video11",
+                    "Response": {
+                        "MouseResponse": 0,
+                        "ResponseTime": 1.9914398193359376
+                    },
+                    "TrialNumber": 5,
+                    "ParentBatchNumber": 2
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "violin_video10",
+                    "Response": {
+                        "MouseResponse": 0,
+                        "ResponseTime": 2.377197265625
+                    },
+                    "TrialNumber": 6,
+                    "ParentBatchNumber": 2
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "violin_video6",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 1.6210784912109376
+                    },
+                    "TrialNumber": 7,
+                    "ParentBatchNumber": 2
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "violin_video10",
+                    "Response": {
+                        "MouseResponse": 0,
+                        "ResponseTime": 1.917144775390625
+                    },
+                    "TrialNumber": 8,
+                    "ParentBatchNumber": 2
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "violin_video5",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 1.5813446044921876
+                    },
+                    "TrialNumber": 9,
+                    "ParentBatchNumber": 2
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "violin_video6",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 1.57464599609375
+                    },
+                    "TrialNumber": 10,
+                    "ParentBatchNumber": 2
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "violin_video9",
+                    "Response": {
+                        "MouseResponse": 0,
+                        "ResponseTime": 2.6040191650390627
+                    },
+                    "TrialNumber": 11,
+                    "ParentBatchNumber": 2
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "violin_video14",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 1.9698944091796876
+                    },
+                    "TrialNumber": 12,
+                    "ParentBatchNumber": 2
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "violin_video6",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 1.52935791015625
+                    },
+                    "TrialNumber": 13,
+                    "ParentBatchNumber": 2
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "violin_video6",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 1.59625244140625
+                    },
+                    "TrialNumber": 14,
+                    "ParentBatchNumber": 2
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "violin_video12",
+                    "Response": {
+                        "MouseResponse": 0,
+                        "ResponseTime": 2.339263916015625
+                    },
+                    "TrialNumber": 15,
+                    "ParentBatchNumber": 2
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "violin_video8",
+                    "Response": {
+                        "MouseResponse": 0,
+                        "ResponseTime": 1.919921875
+                    },
+                    "TrialNumber": 16,
+                    "ParentBatchNumber": 2
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "violin_video14",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 2.1869049072265627
+                    },
+                    "TrialNumber": 17,
+                    "ParentBatchNumber": 2
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "violin_video4",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 1.4872589111328126
+                    },
+                    "TrialNumber": 18,
+                    "ParentBatchNumber": 2
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "violin_video11",
+                    "Response": {
+                        "MouseResponse": 0,
+                        "ResponseTime": 2.1835479736328127
+                    },
+                    "TrialNumber": 19,
+                    "ParentBatchNumber": 2
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "violin_video4",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 1.4471282958984376
+                    },
+                    "TrialNumber": 20,
+                    "ParentBatchNumber": 2
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "violin_video6",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 2.1548309326171877
+                    },
+                    "TrialNumber": 21,
+                    "ParentBatchNumber": 2
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "violin_video9",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 2.242279052734375
+                    },
+                    "TrialNumber": 22,
+                    "ParentBatchNumber": 2
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "violin_video5",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 1.4992218017578126
+                    },
+                    "TrialNumber": 23,
+                    "ParentBatchNumber": 2
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "violin_video8",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 1.9931793212890626
+                    },
+                    "TrialNumber": 24,
+                    "ParentBatchNumber": 2
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "violin_video8",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 2.58428955078125
+                    },
+                    "TrialNumber": 25,
+                    "ParentBatchNumber": 2
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "violin_video13",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 3.26763916015625
+                    },
+                    "TrialNumber": 26,
+                    "ParentBatchNumber": 2
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "violin_video4",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 1.6697998046875
+                    },
+                    "TrialNumber": 27,
+                    "ParentBatchNumber": 2
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "violin_video12",
+                    "Response": {
+                        "MouseResponse": 0,
+                        "ResponseTime": 1.840118408203125
+                    },
+                    "TrialNumber": 28,
+                    "ParentBatchNumber": 2
+                }
+            ],
+            "TargetDisplay": 1,
+            "VideoType": 1,
+            "IntendedBatchSize": 28
+        },
+        {
+            "Trials": [
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "beep_video5",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 3.2105255126953127
+                    },
+                    "TrialNumber": 1,
+                    "ParentBatchNumber": 3
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "beep_video13",
+                    "Response": {
+                        "MouseResponse": 0,
+                        "ResponseTime": 3.6523056030273439
+                    },
+                    "TrialNumber": 2,
+                    "ParentBatchNumber": 3
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "beep_video11",
+                    "Response": {
+                        "MouseResponse": 0,
+                        "ResponseTime": 2.3501129150390627
+                    },
+                    "TrialNumber": 3,
+                    "ParentBatchNumber": 3
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "beep_video7",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 1.7565231323242188
+                    },
+                    "TrialNumber": 4,
+                    "ParentBatchNumber": 3
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "beep_video10",
+                    "Response": {
+                        "MouseResponse": 0,
+                        "ResponseTime": 49.888648986816409
+                    },
+                    "TrialNumber": 5,
+                    "ParentBatchNumber": 3
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "beep_video12",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 3.425689697265625
+                    },
+                    "TrialNumber": 6,
+                    "ParentBatchNumber": 3
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "beep_video7",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 2.4978485107421877
+                    },
+                    "TrialNumber": 7,
+                    "ParentBatchNumber": 3
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "beep_video6",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 1.670318603515625
+                    },
+                    "TrialNumber": 8,
+                    "ParentBatchNumber": 3
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "beep_video13",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 2.0950469970703127
+                    },
+                    "TrialNumber": 9,
+                    "ParentBatchNumber": 3
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "beep_video14",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 1.77618408203125
+                    },
+                    "TrialNumber": 10,
+                    "ParentBatchNumber": 3
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "beep_video12",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 6.067169189453125
+                    },
+                    "TrialNumber": 11,
+                    "ParentBatchNumber": 3
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "beep_video10",
+                    "Response": {
+                        "MouseResponse": 0,
+                        "ResponseTime": 2.0596771240234377
+                    },
+                    "TrialNumber": 12,
+                    "ParentBatchNumber": 3
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "beep_video6",
+                    "Response": {
+                        "MouseResponse": 0,
+                        "ResponseTime": 2.28277587890625
+                    },
+                    "TrialNumber": 13,
+                    "ParentBatchNumber": 3
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "beep_video11",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 2.182342529296875
+                    },
+                    "TrialNumber": 14,
+                    "ParentBatchNumber": 3
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "beep_video10",
+                    "Response": {
+                        "MouseResponse": 0,
+                        "ResponseTime": 2.060760498046875
+                    },
+                    "TrialNumber": 15,
+                    "ParentBatchNumber": 3
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "beep_video8",
+                    "Response": {
+                        "MouseResponse": 0,
+                        "ResponseTime": 1.8842926025390626
+                    },
+                    "TrialNumber": 16,
+                    "ParentBatchNumber": 3
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "beep_video5",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 1.5478973388671876
+                    },
+                    "TrialNumber": 17,
+                    "ParentBatchNumber": 3
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "beep_video4",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 1.5847930908203126
+                    },
+                    "TrialNumber": 18,
+                    "ParentBatchNumber": 3
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "beep_video12",
+                    "Response": {
+                        "MouseResponse": 0,
+                        "ResponseTime": 2.585296630859375
+                    },
+                    "TrialNumber": 19,
+                    "ParentBatchNumber": 3
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "beep_video12",
+                    "Response": {
+                        "MouseResponse": 0,
+                        "ResponseTime": 2.4007415771484377
+                    },
+                    "TrialNumber": 20,
+                    "ParentBatchNumber": 3
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "beep_video5",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 1.4320068359375
+                    },
+                    "TrialNumber": 21,
+                    "ParentBatchNumber": 3
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "beep_video14",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 2.073822021484375
+                    },
+                    "TrialNumber": 22,
+                    "ParentBatchNumber": 3
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "beep_video9",
+                    "Response": {
+                        "MouseResponse": 0,
+                        "ResponseTime": 2.2169189453125
+                    },
+                    "TrialNumber": 23,
+                    "ParentBatchNumber": 3
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "beep_video13",
+                    "Response": {
+                        "MouseResponse": 0,
+                        "ResponseTime": 2.045928955078125
+                    },
+                    "TrialNumber": 24,
+                    "ParentBatchNumber": 3
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "beep_video6",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 1.6572723388671876
+                    },
+                    "TrialNumber": 25,
+                    "ParentBatchNumber": 3
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "beep_video11",
+                    "Response": {
+                        "MouseResponse": 0,
+                        "ResponseTime": 3.141387939453125
+                    },
+                    "TrialNumber": 26,
+                    "ParentBatchNumber": 3
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "beep_video11",
+                    "Response": {
+                        "MouseResponse": 0,
+                        "ResponseTime": 1.97930908203125
+                    },
+                    "TrialNumber": 27,
+                    "ParentBatchNumber": 3
+                }
+            ],
+            "TargetDisplay": 1,
+            "VideoType": 0,
+            "IntendedBatchSize": 27
+        },
+        {
+            "Trials": [
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "violin_video13",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 2.3261260986328127
+                    },
+                    "TrialNumber": 1,
+                    "ParentBatchNumber": 4
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "violin_video4",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 1.29241943359375
+                    },
+                    "TrialNumber": 2,
+                    "ParentBatchNumber": 4
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "violin_video14",
+                    "Response": {
+                        "MouseResponse": 0,
+                        "ResponseTime": 2.6308135986328127
+                    },
+                    "TrialNumber": 3,
+                    "ParentBatchNumber": 4
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "violin_video7",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 1.750701904296875
+                    },
+                    "TrialNumber": 4,
+                    "ParentBatchNumber": 4
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "violin_video5",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 1.398345947265625
+                    },
+                    "TrialNumber": 5,
+                    "ParentBatchNumber": 4
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "violin_video9",
+                    "Response": {
+                        "MouseResponse": 0,
+                        "ResponseTime": 1.83978271484375
+                    },
+                    "TrialNumber": 6,
+                    "ParentBatchNumber": 4
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "violin_video4",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 1.362579345703125
+                    },
+                    "TrialNumber": 7,
+                    "ParentBatchNumber": 4
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "violin_video5",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 1.503387451171875
+                    },
+                    "TrialNumber": 8,
+                    "ParentBatchNumber": 4
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "violin_video10",
+                    "Response": {
+                        "MouseResponse": 0,
+                        "ResponseTime": 1.990509033203125
+                    },
+                    "TrialNumber": 9,
+                    "ParentBatchNumber": 4
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "violin_video11",
+                    "Response": {
+                        "MouseResponse": 0,
+                        "ResponseTime": 2.162109375
+                    },
+                    "TrialNumber": 10,
+                    "ParentBatchNumber": 4
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "violin_video13",
+                    "Response": {
+                        "MouseResponse": 0,
+                        "ResponseTime": 2.00469970703125
+                    },
+                    "TrialNumber": 11,
+                    "ParentBatchNumber": 4
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "violin_video13",
+                    "Response": {
+                        "MouseResponse": 0,
+                        "ResponseTime": 2.201507568359375
+                    },
+                    "TrialNumber": 12,
+                    "ParentBatchNumber": 4
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "violin_video5",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 1.405364990234375
+                    },
+                    "TrialNumber": 13,
+                    "ParentBatchNumber": 4
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "violin_video7",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 2.050933837890625
+                    },
+                    "TrialNumber": 14,
+                    "ParentBatchNumber": 4
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "violin_video11",
+                    "Response": {
+                        "MouseResponse": 0,
+                        "ResponseTime": 2.05474853515625
+                    },
+                    "TrialNumber": 15,
+                    "ParentBatchNumber": 4
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "violin_video12",
+                    "Response": {
+                        "MouseResponse": 0,
+                        "ResponseTime": 2.1160888671875
+                    },
+                    "TrialNumber": 16,
+                    "ParentBatchNumber": 4
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "violin_video8",
+                    "Response": {
+                        "MouseResponse": 0,
+                        "ResponseTime": 2.12005615234375
+                    },
+                    "TrialNumber": 17,
+                    "ParentBatchNumber": 4
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "violin_video11",
+                    "Response": {
+                        "MouseResponse": 0,
+                        "ResponseTime": 2.335174560546875
+                    },
+                    "TrialNumber": 18,
+                    "ParentBatchNumber": 4
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "violin_video7",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 2.04669189453125
+                    },
+                    "TrialNumber": 19,
+                    "ParentBatchNumber": 4
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "violin_video14",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 2.2841796875
+                    },
+                    "TrialNumber": 20,
+                    "ParentBatchNumber": 4
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "violin_video9",
+                    "Response": {
+                        "MouseResponse": 0,
+                        "ResponseTime": 1.811676025390625
+                    },
+                    "TrialNumber": 21,
+                    "ParentBatchNumber": 4
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "violin_video13",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 3.23004150390625
+                    },
+                    "TrialNumber": 22,
+                    "ParentBatchNumber": 4
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "violin_video10",
+                    "Response": {
+                        "MouseResponse": 0,
+                        "ResponseTime": 1.89862060546875
+                    },
+                    "TrialNumber": 23,
+                    "ParentBatchNumber": 4
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "violin_video12",
+                    "Response": {
+                        "MouseResponse": 0,
+                        "ResponseTime": 2.34844970703125
+                    },
+                    "TrialNumber": 24,
+                    "ParentBatchNumber": 4
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "violin_video8",
+                    "Response": {
+                        "MouseResponse": 1,
+                        "ResponseTime": 2.352935791015625
+                    },
+                    "TrialNumber": 25,
+                    "ParentBatchNumber": 4
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "violin_video10",
+                    "Response": {
+                        "MouseResponse": 0,
+                        "ResponseTime": 2.4361572265625
+                    },
+                    "TrialNumber": 26,
+                    "ParentBatchNumber": 4
+                },
+                {
+                    "DisplayTarget": "AR",
+                    "Video": "violin_video12",
+                    "Response": {
+                        "MouseResponse": 0,
+                        "ResponseTime": 2.1739501953125
+                    },
+                    "TrialNumber": 27,
+                    "ParentBatchNumber": 4
+                }
+            ],
+            "TargetDisplay": 1,
+            "VideoType": 1,
+            "IntendedBatchSize": 27
+        }
+    ]
+}

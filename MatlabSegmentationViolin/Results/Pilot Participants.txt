@@ -1,0 +1,10 @@
+Pilot1: Vojta - 3 repeats. 9 SOAs. +-160ms. VR
+Pilot2: Genia - 3 repeats. 9 SOAs. +-160ms. VR
+Pilot3: Vojta - 5 repeats. 9 SOAs. +-200ms. VR
+Pilot4: Matyas - 5 repeats. 9 SOAs. +-200ms. VR
+Pilot5: Matyas - 5 repeats, 11 SOAs. +- 240ms. VR
+Pilot6: Will - 5 repeats, 11 SOAs. +- 240ms. VR
+Pilot7: Diar - 5 repeats, 11 SOAs. +- 240ms. VR
+Pilot8: Vojta - 5 repeats, 11 SOAs. +- 250ms. AR 
+Pilot9: Matyas - 5 repeats, 11 SOAs. +- 250ms. AR
+Pilot10: Genia - 5 repeats, 11 SOAs. +- 250ms. AR
